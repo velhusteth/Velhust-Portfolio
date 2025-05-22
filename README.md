@@ -18,7 +18,7 @@ This is a personal portfolio website built using Vite+React, Tailwind CSS, and F
 
 1. Clone the repository:
    ```sh
-   git clone (https://github.com/velhusteth/Velhust-Portfolio/tree/master)
+   git clone [https://github.com/velhusteth/Velhust-Portfolio/tree/master]
    ```
 2. Navigate to the project directory:
    ```sh
