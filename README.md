@@ -49,7 +49,7 @@ If you’d like to contribute or improve this project, feel free to fork the rep
 ## Contact
 If you have any questions or suggestions, feel free to reach out via:
 - **Email:** velhusteth@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/velhust)
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/velhusteth)
 
 ---
 Made with ❤️ by Velhust
